@@ -1,0 +1,9 @@
+.bar {
+  width: 70%;
+  height: 180px;
+  margin: 50px auto;
+  border: 1px solid #888;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}
